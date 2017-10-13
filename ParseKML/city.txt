@@ -1,0 +1,45 @@
+Dombivli|Thane
+Kalyan|Thane
+Karad maharashtra|Satara
+Nashik maharashtra|Nashik
+mumbai|Thane
+nagpur maharashtra|Nagpur
+Panvel maharashtra|Raigad
+Pune maharashtra|Pune
+Paithan maharashtra|Aurangabad
+latur maharashtra|Latur
+kolhapur maharashtra|Kolhapur
+south bombay|Mumbai Subarban
+amravati maharashtra|Amravati
+nanded maharashtra|Nanded
+chiplun maharashtra|Ratnagiri
+satara maharashtra|Satara
+malvan maharashtra|Sindhudurg
+bhusawal maharashtra|Jalgaon
+nandurbar maharashtra|Nandurbar
+achalpur maharashtra|Amravati
+gondia maharashtra|Gondia
+gadchiroli maharashtra|Gadchiroli
+miraj maharashtra|Sangli
+yavatmal maharashtra|Yavatmal
+tuljapur maharashtra|Osmanabad
+chikhli maharashtra |Buldhana
+malegaon maharashtra|Nashik
+rajapur maharashtra|Ratnagiri
+khanapur maharshtra|Sangli
+shirpur maharashtra|Dhule
+ahmadnagar maharashtra|Ahmadnagar
+baramati maharashtra|Pune
+uran maharashtra|Raigad
+roha maharashtra|Raigad
+ganpatipule maharashtra|Ratnagiri
+roha maharashtra|Raigad
+pandharpur maharashtra|Solapur
+chandrapur maharashtra|Chandrapur
+ichalkaranji maharashtra|Kolhapur
+bhusawal maharashtra|Jalgaon
+chikhaldara maharashtra|Amravati
+baramati maharashtra|Pune
+shegaon maharashtra|Buldana
+latur maharashtra|Latur
+

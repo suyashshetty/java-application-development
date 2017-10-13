@@ -1,0 +1,109 @@
+hotels
+restaurants
+vada pav
+bank
+shop
+Cinema Halls
+travel agent
+mall
+business office
+Hotels
+Resorts
+Money Exchangers
+Fuel Stations
+Bakery
+Dental Clinics
+Gas Agencies
+Baby Sitting
+Cycle Dealers
+Blood Banks
+Training Institutes
+Super Markets
+Business Services
+Legal Consultants
+Health Services
+Florists
+Shopping Mall
+Wood Merchants
+Paying Guest Accommodations
+Handicrafts
+Glass Decorators
+Salons
+Jewellery
+Pet Accessories
+Cottages
+Warehousing Services
+Colour Labs
+Compressor Dealers
+Fashion Apparels And Accesso
+Finance Companies
+Chemical Dealers
+Dairy Products
+Handloom Emporiums
+Aluminium Product Dealers
+Bakers And Confectionaries
+Eye Hospitals
+Multispecialty Hospitals
+Coaching Centers
+Hearing Aid Dealers
+Clothing and Accessories
+Fashion Designers
+Music Classes
+Laproscopic Surgeon
+Churches
+Steel Manufacturers
+Passport Consultants
+Western Union Money Transfer
+Sports Accessories
+Search Engine Optimization C
+Painting Classes
+Department Stores
+Skin Specialists
+Non Government Organizations
+Diabetologists
+Hair Implant Centre
+Plant Nurseries
+Second Hand Car Dealers
+Water Suppliers
+Grocers And Provision Stores
+Builders And Developers
+Ladies Wear
+Pharmaceuticals
+Automobile Dealers
+Bicycle Dealers
+garment store
+motor repair
+mobile repair
+gift shop
+novelty store
+idbi bank
+icici bank
+state bank of india
+yes bank
+bhelpuri
+chaat
+saree shop
+plastic seller
+electronics shop
+furniture shop
+lottery ticket
+ice cream
+bus stand
+two wheeler
+computer store
+printer store
+chinese stall
+monginis
+dog park
+nana nani park
+gym
+yoga center
+wholesale distributor
+mechanic
+cable tv
+builders
+contractors
+news agency
+news paper
+instant photo
+ 

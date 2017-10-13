@@ -1,0 +1,2 @@
+termIndex=0
+cityIndex=45
